@@ -4,14 +4,10 @@
 
 **Text the robots we left behind.**
 A cozy, retro storytelling game where you play Earth and three retired Mars explorers message you their missions, one moment at a time.
-
-![Type]<img width="1918" height="778" alt="image" src="https://github.com/user-attachments/assets/f051e91f-1db9-4bfb-847f-6c2bd1861b3d" />
-
-![Audience]<img width="1916" height="784" alt="image" src="https://github.com/user-attachments/assets/741b3edc-9621-4bc9-8275-b7c9083c23f9" />
-
-![Stack]<img width="1919" height="780" alt="image" src="https://github.com/user-attachments/assets/e52557e6-a928-48c4-a18b-8838b189095c" />
-
-![Dependencies]<img width="1918" height="782" alt="image" src="https://github.com/user-attachments/assets/51d1cca5-2be4-4aa8-8abe-8cba2c1d6459" />
+<img width="1918" height="778" alt="image" src="https://github.com/user-attachments/assets/f051e91f-1db9-4bfb-847f-6c2bd1861b3d" />
+<img width="1916" height="784" alt="image" src="https://github.com/user-attachments/assets/741b3edc-9621-4bc9-8275-b7c9083c23f9" />
+<img width="1919" height="780" alt="image" src="https://github.com/user-attachments/assets/e52557e6-a928-48c4-a18b-8838b189095c" />
+<img width="1918" height="782" alt="image" src="https://github.com/user-attachments/assets/51d1cca5-2be4-4aa8-8abe-8cba2c1d6459" />
 
 
 [**Play the demo**]http://127.0.0.1:5501/index.html [Resources](#resources)
