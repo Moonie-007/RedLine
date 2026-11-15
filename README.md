@@ -1,4 +1,4 @@
-# EarthChat 98
+# RedLine
  
 **A cozy, retro storytelling game where you are Earth, and three Mars robots text you their stories.**
  
