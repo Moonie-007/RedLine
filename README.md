@@ -198,7 +198,6 @@ Fonts: [Press Start 2P](https://fonts.google.com/specimen/Press+Start+2P) and [V
 
 - **Concept, story and code:** created with Claude (Anthropic). Photos and profile pictures supplied by the project team.
 - **Mars imagery:** credit NASA/JPL-Caltech and the instrument teams where applicable. Not endorsed by NASA.
-- **Code licence:** MIT. Change this if your team prefers another licence.
-- **Built by:** _add your name or team here_.
+- **Built by:** Momina Nadeem, Mashaikh Fatima, Fatima Sarwar, Aamina Nadeem 
 
 *Thanks, Ingenuity, Spirit and Opportunity.*
